@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Welcome to my travel blog!
 ---
 
+
+First commit of blog
