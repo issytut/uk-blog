@@ -1,1 +1,6 @@
 theme: minima
+future: true
+header_pages:
+  - blogs.md
+  - photos.md
+  - recipes.md
