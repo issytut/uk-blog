@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Jetting-off"
 date: 2025-12-10
 ---
