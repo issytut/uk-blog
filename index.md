@@ -2,7 +2,13 @@
 title: Welcome to my travel blog!
 ---
 
-This blog is a way for me to remember and reflect on all the fun things I get up to during my time in London.
+Hello friends and family!
+
+If you're interested in my weekly adventures, you've come to the right place. This blog came about as a way for me to practise my website skills, as well as a way to remember and share what I get up to in London.
+
+I'll aim to update this blog weekly and shall see where this takes us.
+
+![Travel collage](/images/collage.png)
 
 <a href="https://preview.mailerlite.io/forms/1978908/173579134310549496/share" target="_blank">
   <button>Subscribe to the Newsletter</button>
